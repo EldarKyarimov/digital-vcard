@@ -1,0 +1,12 @@
+.home {
+    display: flex;
+    flex-direction: column;
+    padding-left: 30px;
+
+}
+
+.componentsWrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}

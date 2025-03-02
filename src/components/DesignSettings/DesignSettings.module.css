@@ -1,0 +1,10 @@
+.container {
+    border: 1px solid #D9DCE1;
+    border-radius: 15px;
+    width: 850px;
+    padding: 30px 40px;
+}
+
+.title {
+    color: #5e5e5e;
+}
